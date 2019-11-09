@@ -9,7 +9,7 @@ h1 { font-weight: 300; }
 .app-body button { background-color: #c4e9ff; font-size: 14px; color: white; text-transform: uppercase; padding: 1em; border: none; }
 .app-body button:hover { opacity: 0.8; }
 .preview{
-	height: 500px;
+	height: 200px;
 	width: 100%;
 }
 
